@@ -1,8 +1,8 @@
 # TODO:
 
-Make navigation bar
-Apply CSS to format
-Fix LinkedIn Badge
-Expand Home Page
-Expand About Page
-Format Contact Page
+Make navigation bar <br/>
+Apply CSS to format <br/>
+Fix LinkedIn Badge <br/>
+Expand Home Page <br/>
+Expand About Page <br/>
+Format Contact Page <br/>
