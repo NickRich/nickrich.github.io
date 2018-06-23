@@ -1,5 +1,41 @@
 ﻿<!DOCTYPE html>
 <style>
+    .title {
+        padding-top: 10px 0;
+        padding-bottom: 0px 0;
+        text-align: center;
+        background-color:dimgray
+    }
+    .educationSubtitle {
+        padding-top: 20px 0;
+        padding-bottom: 0px 0;
+        text-align: center;
+        background-color:dimgray
+    }
+    .educationBody {
+        padding-top: 5px 0;
+        padding-bottom: 0px 0;
+        text-align:center;
+        background-color: dimgray
+    }
+    .workExperienceSubtitle{
+        padding-top: 20px 0;
+        padding-bottom: 0px 0;
+        text-align:center;
+        background-color:dimgray
+    }
+    .workExperienceBody{
+        padding-top: 5px 0;
+        padding-bottom: 0px 0;
+        text-align:center;
+        background-color:dimgray
+    }
+    .links{
+        padding: 20px 0;
+        text-align:center;
+        background-color:dimgray
+    }
+
     h4 {text-align:center}
     body {text-align:center}
 
@@ -71,28 +107,38 @@
     <!-- Use any element to open the sidenav -->
     <span onclick="openNav()">Menu</span>
 </h3>
-<br />
-<h2> About Me </h2>
-<br />
-<h4> Education </h4>
-    <body>
+
+<div class= "title">
+    <h2> About Me </h2>
+</div>
+
+
+<div class = "educationSubtitle">
+    <h4> Education </h4>
+</div>
+
+<div class=" educationBody">
         I am currently studying Computer Science at Purdue University. <br/>
         My concentrations in Computer Science are Computer Graphics and Visualization and Computational Science. <br />
         (Insert why I chose these) <br />
         I am also minoring in Management.<br />
         (Insert why I chose this)<br />
-    </body>
+</div>
 
-<h4> Work Experience </h4>
-    <body>
+
+<div class="workExperienceSubtitle">
+    <h4> Work Experience </h4>
+</div>
+
+<div class="workExperienceBody">
         I am currently employed at Compassion International as a Software Development Intern.<br />
         I am working on our SalesForce platform team, the purpose of which is to connect sponsors to our beneficiaries in an efficient manner.<br />
         My current tasks have included fixing account management issues, case assignment issues, and email distribution issues.<br />
-    </body>
-<br />
-<br />
-<br />
-<body>You can check my resume <a runat="server" href="https://goo.gl/v573Sb">here</a>, or for a glimpse of my work check my GitHub <a runat="server" href="https://github.com/NickRich">here</a>.</body>
+</div>
+
+<div class="links">
+    You can check my resume <a runat="server" href="https://goo.gl/v573Sb">here</a>, or for a glimpse of my work check my GitHub <a runat="server" href="https://github.com/NickRich">here</a>.
+</div>
 
 <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
