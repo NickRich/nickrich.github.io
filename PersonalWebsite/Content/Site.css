@@ -4,6 +4,33 @@ body {
     padding-bottom: 20px;
 }
 
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+.homeRow {
+    margin: auto;
+    width: 15%;
+    border-style: solid;
+    border-width:thin;
+    padding: 5px;
+    
+}
+
+h3.home {
+    text-align: center;
+    width:150px;
+    margin:auto;
+}
+
+p.home {
+    text-align: center;
+    width: 150px;
+    margin: auto;
+}
+
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {

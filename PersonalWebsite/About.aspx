@@ -13,7 +13,7 @@
     </p>
     <h4> Work Experience </h4>
     <p>
-        I am currently employed at Compassion International as a Software Development. I am working on our SalesForce platform team, the purpose of which is to connect sponsors to our beneficiaries in an efficient manner. My current tasks have included fixing account management issues, case assignment issues, and email distribution issues</p>
+        I am currently employed at Compassion International as a Software Developer. I am working on our SalesForce platform team, the purpose of which is to connect sponsors to our beneficiaries in an efficient manner. My current tasks have included fixing account management issues, case assignment issues, and email distribution issues</p>
     <p></p>
     <p>You can check my resume <a runat="server" href="https://goo.gl/v573Sb">here</a>, or for a glimpse of my work check my GitHub <a runat="server" href="https://github.com/NickRich">here</a>.</p>
 </asp:Content>
