@@ -2,7 +2,8 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background-color: mediumslateblue;
+    background-image:url(../Images/IMG_2056.JPG);
+    background-size: 100%;
 }
 
 .center {
