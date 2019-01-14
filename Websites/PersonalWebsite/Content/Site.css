@@ -4,6 +4,8 @@ body {
     padding-bottom: 20px;
     background-image:url(../Images/IMG_2056.JPG);
     background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: chocolate;
 }
 
 .center {
@@ -12,13 +14,13 @@ body {
     padding: 10px;
 }
 
-.homeRow {
+rowHome {
     margin: auto;
     width: 15%;
     border-style: solid;
     border-width:thin;
     padding: 5px;
-    
+    text-align: center;
 }
 
 h3.home {
