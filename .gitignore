@@ -5,3 +5,6 @@ Solution/Website Solution/Packages/
 *.ide-shm
 *.ide
 Solution/Website Solution/.vs/PersonalWebsite/v15/.suo
+*.ide
+*.ide-shm
+*.ide-wal
