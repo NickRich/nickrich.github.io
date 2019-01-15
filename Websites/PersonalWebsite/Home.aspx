@@ -7,26 +7,25 @@
         <h1 class="text-center" style="font-size: inherit">Nick Richardson</h1>
         <p class="lead" style="text-align: center; font-size: inherit">&lt;Enter Description of Myself&gt; Please take a look around!</p>
 
-    </div>
-    <div class="row">
-        <div class="row" style="margin: auto; width: 20%; border-style: solid; border-width:thin; padding: 5px; margin-left: 20%; display:inline-block">
-            <h3 style="text-align: center; margin:auto;">About Me</h3>
-            <p style="text-align: center; margin:auto;">This is where you can learn a little bit more about me and my story up to this point</p>
-        </div>
+            <div class="jumbotron" style="text-align: center; border:solid; margin-left: 30%; width: 40%;">
+                <h3>Check Out My Blog</h3>
+                <p>Curious about what I'm currently up to?</p>
+            </div>
 
-        <div class="row" style="margin: auto; width: 20%; border-style: solid; border-width:thin; padding: 5px; margin-left: 20%; display:inline-block">
-            <h3 style="text-align: center; margin:auto;">Check Out My Blog</h3>
-            <p style="text-align: center; margin:auto;">Curious about what I'm currently up to?</p>
+            <div class="jumbotron" style="text-align: center; border:solid; margin-left: 30%; width: 40%;">
+                <h3>Portfolio</h3>
+                <p>Check out some of my previous work and ongoing work here!</p>
+            </div>
+
+            <div class="jumbotron" style="text-align: center; border:solid; margin-left: 30%; width: 40%;">
+                <h3>About Me</h3>
+                <p>This is where you can learn a little bit more about me and my story up to this point</p>
+            </div>
+
+        <div class="jumbotron" style="text-align: center;  border:solid; margin-left: 30%; width: 40%;">
+            <h3>Contact Me</h3>
+            <p>Here is where you can find all my contact information, or just submit a message and I'll get back to you as soon as I can!</p>
         </div>
     </div>
-    <div class="row">
-        <div class="row" style="margin: auto; width: 20%; border-style: solid; border-width:thin; padding: 5px; margin-left: 20%; display: inline-block">
-            <h3 style="text-align: center; margin:auto;">Portfolio</h3>
-            <p style="text-align: center; margin:auto;">Check out some of my previous work here!</p>
-        </div>
-        <div class="row" style="margin: auto; width: 20%; border-style: solid; border-width:thin; padding: 5px; margin-left: 20%; display: inline-block">
-            <h3 style="text-align: center; margin:auto;">Contact Me</h3>
-            <p style="text-align: center; margin:auto;">Here is where you can find all my contact information, or just submit a message and I'll get back to you as soon as I can!</p>
-        </div>
-    </div>
+
 </asp:Content>
