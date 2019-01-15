@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TrailheadTemplate.aspx.cs" Inherits="TrailheadPosts_TrailheadTemplate" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TechnologyTemplate.aspx.cs" Inherits="TrailheadPosts_TrailheadTemplate" %>
 
 <!DOCTYPE html>
 
