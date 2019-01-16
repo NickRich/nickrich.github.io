@@ -56,6 +56,6 @@
                 <h4>Eagle Scout</h4>
             </div>
         </div>
-        <p style="text-align: center; padding-top: 5%;"> Download my resume here: Insert Resume Link </p>
+        <p style="text-align: center; padding-top: 5%;"> Download my resume <a href="Images/Resume.pdf" download="NicholasRichadson">here.</a></p>
     </div>
 </asp:Content>
