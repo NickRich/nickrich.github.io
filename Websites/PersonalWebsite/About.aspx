@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="jumbotron">
         <h2><%: Title %></h2>
-        <h3>Your application description page.</h3>
         <h4> Education </h4>
+            <img alt="" src="Images/Purdue.jpg" style="height: 20%; width: 20%">
             <p class="jumbotron">
                 I am currently studying Computer Science at Purdue University.
                 My concentrations are in Computer Science are Computer Graphics and Visualization and Computational Science.
